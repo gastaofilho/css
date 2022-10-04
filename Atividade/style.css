@@ -1,0 +1,39 @@
+.title-main{
+    text-align: center;
+}
+
+span{
+    color: rgba(0, 0, 255, 0.7);
+}
+
+a{
+    color: rgba(0, 0, 255, 0.7);
+}
+
+article{
+    background-color: rgba(0, 0, 255, 0.7);
+    color: white;
+}
+
+.azul{
+    line-height: 1.5;
+}
+
+ol{
+    text-decoration: underline;
+}
+
+.background-black{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 40px;
+    padding: 5px
+}
+footer{
+    line-height: 2;
+}
+
+body{
+    font-family: Sans-serif;
+}

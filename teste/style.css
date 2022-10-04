@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+    ;
+}
+
+.teste{
+    color: red;
+    font-size: 32px;
+    background-color: black;
+}
+
+.fila{
+    color: green;
+    font-size: 32px;
+    line-height: 55px;
+}
+
+p{
+    font-weight: 600;
+}

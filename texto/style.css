@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+h2{
+    color: blueviolet;
+    font-size: 23px;
+}
+
+.novo{
+    background-color: blanchedalmond;
+    font-size: 23px;
+    line-height: 23px;
+}
+
+.velho{
+    background-color: aqua;
+    color: brown;
+    font-style: italic;
+}
+
+.atual{
+    background-color: antiquewhite;
+}
