@@ -1,0 +1,14 @@
+section{
+    margin: 50px;
+}
+.ola{
+    text-align: center;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 4px;
+    color: tomato;
+    font-size: 40px;
+    
+}
