@@ -1,0 +1,31 @@
+body{
+    background-color: black
+    ;
+}
+ul{
+    list-style: none;
+    font-size: 20px;
+    padding:50px 0px 0px 0px;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: solid black 1px;
+    border-radius: 25px;
+    max-width: 550px;
+  }
+  ul li{
+    display: inline-block;
+    background-color: rgb(50, 50, 224);
+    margin: 5px;
+    padding: 5px 3px 5px 3px;
+    
+  
+  }
+  ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    padding:10px 5px 10px 5px;
+    margin: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
